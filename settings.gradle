@@ -1,0 +1,4 @@
+rootProject.name = 'kGRPC'
+include 'server'
+include 'proto'
+
